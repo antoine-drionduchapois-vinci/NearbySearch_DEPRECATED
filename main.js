@@ -10,6 +10,7 @@ import './style.css'
 
 document.querySelector('#app').innerHTML = `
   <div><h1>Whise Search</h1></div>
+  <p>Permters d'indiquer des points d'intérets proche d'une adresse</p>
   <div>
     <label>Adresse</label>
     <input type="text" id="adress" name="adress" value="123 rue de la station"> 
