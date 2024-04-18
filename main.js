@@ -26,7 +26,6 @@ document.querySelector('#app').innerHTML = `
       <option value="bakery">boulanger</option>
       <option value="cafe">café</option>
       <option value="hospital">hopital</option>
-      <option value="light_rail_station">tram</option>
     </select>
     <label>Rayon (Km)</label>
     <input type="number" id="radius" placeholder="Radius (Km)" name="radius" min="1" max="10" value="1" required>
