@@ -13,7 +13,7 @@ document.querySelector('#app').innerHTML = `
   <p>Permets d'indiquer des points d'intérêts proche d'une adresse</p>
   <div>
     <label>Adresse</label>
-    <input type="text" id="adress" name="adress" value="123 rue de la station"> 
+    <input type="text" id="adress" name="adress" value="35 rue de la station"> 
     <label>Ville</label>
     <input type="text" id="city" name="city" value="woluwe">
 
